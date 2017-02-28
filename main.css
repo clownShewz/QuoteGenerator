@@ -1,0 +1,42 @@
+
+.quote{
+    background-color: white;
+    color: olivedrab;
+    font-size:25pt;
+    font-weight: bold;
+}
+
+.author{
+    background-color: white;
+    color: olivedrab;
+    font-size:15pt;
+    padding-right:10% ;
+}
+.Jumbotron{
+    background-color:white;
+    padding: 10%;
+}
+.borderless td, .borderless th{
+
+    border:none;
+}
+body, html, .container-fluid {
+    height: 100%;
+    background-color: olivedrab;
+    background:linear-gradient(olivedrab,yellow);
+    font-family: 'Roboto', sans-serif ;
+}
+
+.btn{
+ height:40px;
+}
+
+.btn-primary{
+    background-color: olivedrab;
+    font-family: 'Roboto', sans-serif ;
+}
+
+.btn-primary:active, .btn-primary.active,.btn-primary:focus,.btn-primary:hover {
+    background: olivedrab;
+    box-shadow: none;
+}
